@@ -12,4 +12,4 @@ MultiModal and Vision LM chatbot. Running in huggingface Spaces.
 ![screenshot](image.png)
 
 ## Huggingface demo
-[vl-chatbox]()
+[vl-chatbox](https://huggingface.co/spaces/vilarin/VL-Chatbox)
