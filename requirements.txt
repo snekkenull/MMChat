@@ -1,0 +1,11 @@
+Pillow
+torch
+torchvision
+transformers
+sentencepiece
+opencv-python
+accelerate
+tiktoken
+PyMuPDF
+python-docx
+python-pptx
